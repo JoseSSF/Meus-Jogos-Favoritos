@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: black;
+    background-image: url(imagens/Wallpapers/Wallpaper-main.jpg);
 }
 
 header {
@@ -33,7 +33,7 @@ nav a:hover{
 }
 
 main {
-    background-color: gray;
+    background-color: rgba(128, 128, 128, 0.185);
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
