@@ -1,2 +1,2 @@
-# Meus-Jogos-Favoritos
- Projeto para executar conhecimentos (em andamento)
+# Site de Jogos (em andamento)
+ Projeto para teste de conhecimento
