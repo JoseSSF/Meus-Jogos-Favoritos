@@ -4,6 +4,10 @@
 
 Aplicar conhecimentos
 
+## Link para acesso
+
+https://josessf.github.io/Site-de-Jogos/main.html
+
 ## Descrição
 
 Listar e indicar jogos que já joguei e gosto, criando uma interface interativa e objetiva.
